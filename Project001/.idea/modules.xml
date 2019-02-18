@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeetCodetest/LeetCodetest.iml" filepath="$PROJECT_DIR$/LeetCodetest/LeetCodetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project001.iml" filepath="$PROJECT_DIR$/Project001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java11/java11.iml" filepath="$PROJECT_DIR$/java11/java11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linuxCode/linuxCode.iml" filepath="$PROJECT_DIR$/linuxCode/linuxCode.iml" />
     </modules>
   </component>
 </project>
